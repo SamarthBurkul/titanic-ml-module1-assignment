@@ -2,10 +2,10 @@
 
 ## 📊 Module 1 Assignment Results
 
-**Student**: [Your Name]  
+**Student**: [Samarth Burkul]  
 **Validation Accuracy**: 88.83%  
-**Kaggle Score**: [Your Score]  
-**Kaggle Rank**: [Your Rank] / 14,000+
+**Kaggle Score**: [0.7829
+**Kaggle Rank**: [3336]
 
 ---
 
@@ -31,7 +31,7 @@ Successfully demonstrated the bias-variance tradeoff:
 - Validation accuracy peaks at depth 3, then plateaus
 - Model complexity balanced to prevent overfitting
 
-![Bias-Variance Tradeoff](bias_variance_tradeoff.png)
+![Bias-Variance Tradeoff](titanic_results/bias_variance_tradeoff.png)
 
 ---
 
@@ -45,7 +45,7 @@ Tested 4 models with 5-fold cross-validation:
 
 Final tuned Random Forest achieved **88.83%** on validation set.
 
-![Cross-Validation Results](cv_results.png)
+![Cross-Validation Results](titanic_results/cv_results.png)
 
 ---
 
@@ -58,7 +58,7 @@ Top 5 most important features:
 4. **Age** (9.0%) - Passenger age
 5. **Pclass** (7.6%) - Ticket class
 
-![Feature Importance](feature_importance.png)
+![Feature Importance](titanic_results/feature_importance.png)
 
 ---
 
@@ -128,7 +128,7 @@ jupyter notebook Titanic_ML_Assignment.ipynb
 - **Age**: Children (<12) had higher survival rates
 - **Family**: Small families (2-4) survived better
 
-![EDA Visualizations](eda_visualizations.png)
+![EDA Visualizations](titanic_results/eda_visualizations.png)
 
 ### Feature Engineering Impact
 Created 8 new features that improved accuracy by 7-8%:
@@ -144,8 +144,8 @@ Created 8 new features that improved accuracy by 7-8%:
 - Predicted deaths: 269 (64.4%)
 
 ### Submission Proof
-![Kaggle Submission](kaggle_submission_proof.png)
-![Kaggle Rank](kaggle_rank.png)
+![Kaggle Submission](Submission_Proof_Screenshot/Screenshot (1547).png)
+![Kaggle Rank](Submission_Proof_Screenshot/Screenshot (1548).png)
 
 ---
 
