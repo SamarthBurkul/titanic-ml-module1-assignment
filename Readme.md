@@ -20,7 +20,7 @@
 | **Recall (Survived)** | 80% |
 
 ### Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](titanic_results/confusion_matrix.png)
 
 ---
 
