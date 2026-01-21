@@ -1,0 +1,17 @@
+# Python & Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data & models
+*.zip
+*.tar.gz
+*.csv
+*.joblib
+*.h5
+house_price_outputs/
+titanic.zip
+
+# OS
+.DS_Store
+Thumbs.db
